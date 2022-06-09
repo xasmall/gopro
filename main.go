@@ -39,4 +39,5 @@ func main() {
 	fmt.Println(bn)
 	typeAll.Test10()
 	moreType.Test1()
+	moreType.Test2()
 }
