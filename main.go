@@ -40,4 +40,5 @@ func main() {
 	typeAll.Test10()
 	moreType.Test1()
 	moreType.Test2()
+	moreType.Test7()
 }
